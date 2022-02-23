@@ -107,7 +107,6 @@ public class YTParams {
                 "&enablejsapi=" + enablejsapi +
                 "&disablekb=" + disablekb +
                 "&cc_lang_pref=" + cc_lang_pref +
-                "&controls=" + controls +
                 "&volume=" + volume +
                 "&playbackQuality=" + playbackQuality.name();
     }
